@@ -1,0 +1,14 @@
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.csprojAssemblyReference.cache
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.csproj.CoreCompileInputs.cache
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.RazorAssemblyInfo.cache
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.RazorAssemblyInfo.cs
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.AssemblyInfoInputs.cache
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.AssemblyInfo.cs
+C:\FxM\Dev\azure\myswagger\MySwagger\bin\Debug\netcoreapp2.2\MySwagger.deps.json
+C:\FxM\Dev\azure\myswagger\MySwagger\bin\Debug\netcoreapp2.2\MySwagger.runtimeconfig.json
+C:\FxM\Dev\azure\myswagger\MySwagger\bin\Debug\netcoreapp2.2\MySwagger.runtimeconfig.dev.json
+C:\FxM\Dev\azure\myswagger\MySwagger\bin\Debug\netcoreapp2.2\MySwagger.dll
+C:\FxM\Dev\azure\myswagger\MySwagger\bin\Debug\netcoreapp2.2\MySwagger.pdb
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.RazorTargetAssemblyInfo.cache
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.dll
+C:\FxM\Dev\azure\myswagger\MySwagger\obj\Debug\netcoreapp2.2\MySwagger.pdb
