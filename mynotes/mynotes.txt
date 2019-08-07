@@ -13,3 +13,21 @@ dotnet dev-certs https --help
 dotnet dev-certs https --trust
 
  curl -k -v  -X GET "https://localhost:5001/api/Values/76" -H "accept: text/plain"
+ 
+ // deploy from the az prompt 
+  
+https://github.com/Azure-Samples/nodejs-docs-hello-world
+
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/app-service/deploy-local-git.md#deploy-from-local-git-with-azure-devops-services-builds
+https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/configure-deployment-user-no-h.md
+
+az webapp deployment user set --user-name <username> --password <password>
+az webapp deployment user set --user-name mastronardi --password fm123456
+
+az webapp deployment source config-local-git --name <app-name> --resource-group <group-name>
+az webapp deployment source config-local-git --name wtf-nodejs-docs-hello-world --resource-group myguy
+
+
+
+git remote add azure <url>
+git remote add azure https://mastronardi@wtf-nodejs-docs-hello-world.scm.azurewebsites.net:443/wtf-nodejs-docs-hello-world.git
